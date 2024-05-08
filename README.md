@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey there👋
 
-<!--
-**akga20052/akga20052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I'm Constance Dubose - As a full-stack developer and full-time mom, I'm passionate about both technology and creativity. I enjoy diving into art and craft projects while constantly seeking to expand my skills in the ever-evolving tech landscape. Don't hesitate to reach out—I'm excited to collaborate and create something incredible together!</p>
 
-Here are some ideas to get you started:
+## 💻 Tech Stack💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="waseemanjum.online">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,expressjs,mongodb,bootstrap,tailwind,vscode,git,github&theme=dark&perline=5" />
+  </a>
+
+## 💕 Connect with Me 💕
+
+<p>
+ <a href="https://www.linkedin.com/in/constance-dubose/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</p>
